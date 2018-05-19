@@ -14,7 +14,7 @@ background image example
 
  Link: [The Computer Club](https://www.thecomputerclub.org)
 
----
++++
 In-line image example (external)
 
 ![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
