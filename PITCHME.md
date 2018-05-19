@@ -12,7 +12,7 @@ background image example
 
 ---
 
- ![The Computer Club](https://www.thecomputerclub.org)
+ Link: [The Computer Club](https://www.thecomputerclub.org)
 
 ---
 In-line image example (external)
