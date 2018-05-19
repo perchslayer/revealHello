@@ -23,15 +23,6 @@ In-line image example (external)
 
 In-line image example (internal)
 
-![Logo](assets/secondTry_logo.png)
+![Logo](assets/185.png)
 
 
----
-
-
----
-
-
----
-
----
