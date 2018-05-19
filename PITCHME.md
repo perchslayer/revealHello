@@ -1,6 +1,6 @@
 # Flux 
 
-#  https://gitpitch.com/$USER/$REPO/$BRANCH
+#  https://gitpitch.com/perchslayer/revealHello/master
 #
 #  git add PITCHME.md
 #  git commit -m "Added my first GitPitch slideshow content."
