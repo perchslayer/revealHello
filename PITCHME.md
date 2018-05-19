@@ -1,24 +1,37 @@
-# Flux 
-
-#  https://gitpitch.com/perchslayer/revealHello/master
-#
-#  git add PITCHME.md
-#  git commit -m "Added my first GitPitch slideshow content."
-#  git push
-#
-#  https://gitpitch.com/gitpitch/in-60-seconds/master
+# The Computer Club
+## A 4-H County-wide Project for Placer/Nevada Counties
+### ....where hacker garage goes to the country
 
 
 An application architecture for React
 
----
+---?image=assets/coffee.jpg
 
-### Flux Design
+background image example
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+ ![The Computer Club](https;//www.thecomputerclub.org)
+
+---
+In-line image example (external)
+
+![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+
+---
+
+In-line image example (internal)
+
+![Logo](assets/secondTry_logo.png)
+
+
+---
+
+
+---
+
+
+---
+
+---
