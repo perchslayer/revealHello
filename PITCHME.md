@@ -1,5 +1,14 @@
 # Flux 
 
+#  https://gitpitch.com/$USER/$REPO/$BRANCH
+#
+#  git add PITCHME.md
+#  git commit -m "Added my first GitPitch slideshow content."
+#  git push
+#
+#  https://gitpitch.com/gitpitch/in-60-seconds/master
+
+
 An application architecture for React
 
 ---
